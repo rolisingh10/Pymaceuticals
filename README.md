@@ -1,3 +1,0 @@
-# Pymaceuticals
-## Test
-Test
